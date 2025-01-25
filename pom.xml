@@ -178,7 +178,7 @@
                                 <transformer
                                         implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <manifestEntries>
-                                        <Main-Class>MainKt</Main-Class>
+                                        <Main-Class>moe.nyamori.test.MainKt</Main-Class>
                                     </manifestEntries>
                                 </transformer>
                             </transformers>
